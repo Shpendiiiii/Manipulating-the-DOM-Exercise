@@ -1,0 +1,49 @@
+.divMargin{margin-left: 30px;}
+
+.textMarginTop{margin-top: 40px;}
+
+.content{
+    margin: 2.5em;
+    font-size: 15px;
+    font-family: Arial;
+
+}
+
+.headerHeaderPad{
+    padding-bottom: 15px;
+}
+
+.headerPad{
+    margin: 25px;
+    padding-bottom: 25px;
+}
+.italicText{
+    font-style: italic;
+}
+.top{
+    font-size: Arial;
+}
+.top:hover {
+        color: #FFCC00;
+     }
+.aside{
+    font-size: Arial;
+}
+.aside:hover {
+color: black;
+}
+.movieDescription{
+    font-style: italic;
+    font-size: 0.8em;
+}
+.bold{
+    font-weight: bold;
+}
+.footerClass{
+    background-color: white;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    font-size: 11px;
+}
